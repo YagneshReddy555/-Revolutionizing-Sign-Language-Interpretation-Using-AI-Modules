@@ -140,11 +140,7 @@ The dataset was sourced from [Roboflow](https://universe.roboflow.com/bnm-3bjls/
 
 ---
 
-## 📜 License
 
-This project is licensed under the **CC BY 4.0** License.
-
----
 
 ## 👨‍💻 Authors
 
