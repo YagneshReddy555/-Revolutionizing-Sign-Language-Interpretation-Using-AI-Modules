@@ -6,7 +6,7 @@ from ultralytics import YOLO
 app = Flask(__name__)
 
 # Load YOLO model
-yolo_model = YOLO('C:/Users/shiva/Music/YOLO/yolo.v1i.yolov8/runs/detect/train2/weights/best.pt')
+yolo_model = YOLO('best.pt')
 
 def detect_objects():
     cap = cv2.VideoCapture(0)  # Open webcam
