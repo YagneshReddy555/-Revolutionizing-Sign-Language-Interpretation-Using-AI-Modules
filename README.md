@@ -25,8 +25,7 @@ A web-based **Sign Language Detection and Interpretation** system powered by **Y
 | **Input Size** | 640×640 |
 | **Format** | YOLOv8 annotation format |
 
-### Supported Signs (40 Classes)
-`After`, `Again`, `Against`, `Age`, `All`, `Also`, `And`, `Ask`, `At`, `Eat`, `Engineer`, `Fight`, `From`, `Glitter`, `Go`, `God`, `Good`, `Great`, `Happy`, `Her`, `His`, `Home`, `Invent`, `Language`, `Learn`, `Me`, `Word`, `Work`, `You`, `finish`, `hand`, `what`, `when`, `where`, `which`, `whole`, `whose`, `why`, `will`, `with`
+
 
 ---
 
