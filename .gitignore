@@ -1,0 +1,46 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Large model weights
+*.pt
+
+# Database
+*.db
+
+# Archives
+*.rar
+*.zip
+
+# Dataset folders
+runs/
+test/
+train/
+valid/
+uploads/
+
+# Heavy folders (upload to Google Drive instead)
+static/images/
+static/uploads/
+static/detections/
+CogniSign/app/static/
+CogniSign/data/
+CogniSign/uploads/
+CogniSign/results/
+config/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large video & media files
+*.mp4

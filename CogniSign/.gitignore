@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Flask
+instance/
+.webassets-cache
+
+# Project Specific
+# Ignore content of uploads and results, but keep the folders (via .gitkeep if present)
+uploads/*
+!uploads/.gitkeep
+results/*
+!results/.gitkeep
+
+# Optional: Ignore database if you want users to start fresh (though for this demo we might keep it)
+# data/database/app.db
+
+# Optional: Ignore large models if they exceed 100MB (current best.pt is ~6MB, so it's safe)
+# data/ml_models/*.pt
